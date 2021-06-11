@@ -12,5 +12,8 @@ It subtracts the present_week_value from the week_value of the first day of that
 **[image_background_changer.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/image_background_changer.py)**
 This takes an image as input, takes in the color to look for and the color to be replaced with.
 
+**[mycalc.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/mycalc.py)**  
+This is a calculator with some basic functions
+
 **[renamer.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/renamer.py)**  
 This script was used to rename downloaded pdf files with some known format.
