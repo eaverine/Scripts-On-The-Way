@@ -16,8 +16,9 @@ This is just a basic implementation of a vertical bar chart.
 This calculates the week value in a month, since python doesn't have an official function for it.  
 It subtracts the present_week_value from the week_value of the first day of that month(Using some constraints)
 
-**[image_background_changer.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/image_background_changer.py)**
-This takes an image as input, takes in the color to look for and the color to be replaced with.
+**[image_background_changer.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/image_background_changer.py)**  
+This takes an image as input, takes in the color to look for and the color to be replaced with.  
+And then returns an output with the specified image color replaced.
 
 **[mycalc.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/mycalc.py)**  
 This is a calculator with some basic functions
