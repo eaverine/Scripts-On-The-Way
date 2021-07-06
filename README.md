@@ -21,7 +21,16 @@ This takes an image as input, takes in the color to look for and the color to be
 And then returns an output with the specified image color replaced.
 
 **[mycalc.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/mycalc.py)**  
-This is a calculator with some basic functions
+This is a calculator with some basic functions.
+
+**[network_test.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/network_test.py)**  
+This uses the http module to perform post, put and also send requests to a test server.
 
 **[renamer.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/renamer.py)**  
 This script was used to rename downloaded pdf files with some known format.
+
+**[renamer_highlevel.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/renamer_highlevel.py)**  
+This creates several custom files with filenames from an input csv file containing several names.
+
+**[test_mycalc.py](https://github.com/eaverine/Scripts-On-The-Way/blob/main/test_mycalc.py)**  
+This contains basic test using the unittest module
